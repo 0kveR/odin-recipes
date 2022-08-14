@@ -1,2 +1,2 @@
 # odin-recipes
-Learning HTML and CSS
+Learning HTML, CSS, and maybe JS
