@@ -1,0 +1,23 @@
+body {
+  font-family: 'Oxygen', sans-serif;
+}
+
+.title {
+  text-align: center;
+}
+
+.desc {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  text-align: center;
+  width: 80%;
+}
+
+ul {
+  margin-bottom: 50px;
+}
+
+li {
+  margin: 20px;
+}
